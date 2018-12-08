@@ -1,0 +1,22 @@
+USE MusicDB
+GO
+
+ALTER TABLE MusiciansAndGroups
+ADD FOREIGN KEY (GroupID) REFERENCES Groups (GroupId)
+			ON DELETE CASCADE
+			ON UPDATE CASCADE;
+
+ALTER TABLE MusiciansAndGroups
+ADD FOREIGN KEY (MusicianID) REFERENCES Musicians (MusicianID)
+			ON DELETE CASCADE
+			ON UPDATE CASCADE;
+
+ALTER TABLE Albums
+ADD FOREIGN KEY (GroupID) REFERENCES Groups (GroupId)
+			ON DELETE CASCADE
+			ON UPDATE CASCADE;
+
+ALTER TABLE Groups
+ADD CONSTRAINT group_members_limit CHECK (NumberOfMembers > 0) 
+
+INSERT INTO Groups VALUES ('Test', '1999-04-23', -1, 4)
