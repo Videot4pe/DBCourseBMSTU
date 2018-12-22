@@ -1,0 +1,7 @@
+C:\Users\Ev\Desktop\testRK\testRK\obj\Debug\testRK.csproj.CoreCompileInputs.cache
+C:\Users\Ev\Desktop\testRK\testRK\obj\Debug\testRK.csprojAssemblyReference.cache
+C:\Users\Ev\Desktop\testRK\testRK\bin\Debug\testRK.exe.config
+C:\Users\Ev\Desktop\testRK\testRK\bin\Debug\testRK.exe
+C:\Users\Ev\Desktop\testRK\testRK\bin\Debug\testRK.pdb
+C:\Users\Ev\Desktop\testRK\testRK\obj\Debug\testRK.exe
+C:\Users\Ev\Desktop\testRK\testRK\obj\Debug\testRK.pdb
