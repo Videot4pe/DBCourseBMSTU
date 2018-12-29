@@ -1,0 +1,7 @@
+C:\Users\Ev\Desktop\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+C:\Users\Ev\Desktop\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\Ev\Desktop\lab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\Ev\Desktop\lab8\lab8\bin\Debug\lab8.exe
+C:\Users\Ev\Desktop\lab8\lab8\bin\Debug\lab8.pdb
+C:\Users\Ev\Desktop\lab8\lab8\obj\Debug\lab8.exe
+C:\Users\Ev\Desktop\lab8\lab8\obj\Debug\lab8.pdb
